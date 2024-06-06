@@ -1,10 +1,10 @@
 🔭 Software Test Engineer
 
-💬 Ask me about: Java,Sql,Python,Selenium
+💬 Ask me about: Java, SQL, Selenium
 
-📫 How to reach me: Mail - suriyaparithy@gmail.com,
+📫 How to reach me: Mail - suriyaparithy@gmail.com
 
-Linkedin - https://in.linkedin.com/in/suriya-e-211681148,
+Linkedin - https://in.linkedin.com/in/suriya-e-211681148
 
 Blog - https://suriyaparithy.blogspot.com/
 
