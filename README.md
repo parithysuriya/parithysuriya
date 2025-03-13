@@ -1,12 +1,12 @@
 🔭 Software Test Engineer
 
-💬 Ask me about: Java, SQL, Selenium
+💬 Ask me about: Java, SQL, Selenium, TestNG
 
 📫 How to reach me: Mail - suriyaparithy@gmail.com
 
-Linkedin - https://in.linkedin.com/in/suriya-e-211681148
+LinkedIn - https://in.linkedin.com/in/suriya-e-211681148
 
-Blog - https://suriyaparithy.blogspot.com/
+QA Blog - https://suriyaparithy.blogspot.com/
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=parithysuriya&theme=highcontrast&show_icons=true&count_private=true)
