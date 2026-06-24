@@ -4,7 +4,7 @@
 
 📫 How to reach me: Mail - suriyaparithy@gmail.com
 
-LinkedIn - https://in.linkedin.com/in/suriya-e-211681148
+LinkedIn - https://www.linkedin.com/in/suriya-elamparithy-211681148/
 
 QA Blog - https://suriyaparithy.blogspot.com/
 
