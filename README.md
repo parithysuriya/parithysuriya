@@ -1,15 +1,25 @@
-🔭 Software Test Engineer
+# 👋 Hi, I'm Suriya Elamparithy
 
-💬 Ask me about: Java, SQL, Selenium, TestNG
+🔭 **Software Test Engineer | QA Engineer**
 
-📫 How to reach me: Mail - suriyaparithy@gmail.com
+💻 **Testing & Automation:** Java, Selenium, TestNG, Maven
+🗄️ **Database:** SQL
+🔌 **API Testing:** Postman, Swagger
+⚡ **Performance Testing:** JMeter
+🛠️ **Tools:** Git, GitHub, Jenkins, Jira
 
-LinkedIn - https://www.linkedin.com/in/suriya-elamparithy-211681148/
+### 💬 Ask me about
 
-QA Blog - https://suriyaparithy.blogspot.com/
+`Java` `SQL` `Selenium` `TestNG` `API Testing` `Automation Testing`
 
+### 📫 Connect with me
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=parithysuriya&theme=highcontrast&show_icons=true&count_private=true)
+📧 **Email:** [suriyaparithy@gmail.com](mailto:suriyaparithy@gmail.com)
+💼 **LinkedIn:** https://www.linkedin.com/in/suriya-elamparithy-211681148/
+📝 **QA Blog:** https://suriyaparithy.blogspot.com/
 
+### 📊 GitHub Statistics
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=parithysuriya&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parithysuriya\&theme=highcontrast\&show_icons=true\&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parithysuriya\&layout=compact\&theme=highcontrast)
